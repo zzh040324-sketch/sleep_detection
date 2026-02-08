@@ -12,3 +12,7 @@ tast_my.ipynb是第四带代码，已经把模型特征，采样时间进行了�
 train_series.parquet文件数据格式如下
 
 <img width="576" height="536" alt="e136e794-e04f-47f2-a5b0-5ee3cd8c0f08" src="https://github.com/user-attachments/assets/77f7376c-6b17-41b1-aa62-040fefb14ef4" />
+
+train_events.csv文件数据格式如下
+
+<img width="566" height="775" alt="image" src="https://github.com/user-attachments/assets/136bf37a-33d8-4277-90b8-3bcbed8268a9" />
