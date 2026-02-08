@@ -1,0 +1,16 @@
+# 未跟踪文件
+=4.2.0
+__pycache__/
+analyze_importance.py
+data.xlsx
+e
+my_ipynb/importance.csv
+my_py/__pycache__/
+rf/
+sleep_data.xlsx
+sleep_data/
+submission/
+test_series/
+train_events/
+train_series/
+val/
