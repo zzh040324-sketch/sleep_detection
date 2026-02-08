@@ -1,6 +1,6 @@
 # sleep_detection
 睡眠检测的模型代码
-tast_no_timezone.ipynb和tast_have_timezone.ipynb是最开始的代码，无限理会
+tast_no_timezone.ipynb和tast_have_timezone.ipynb是最开始的代码，无需理会
 
 tast.ipynb是第二代代码，无需理会
 
